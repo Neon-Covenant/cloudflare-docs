@@ -1,3 +1,4 @@
+[![Update api-schemas pinned commit](https://github.com/Neon-Covenant/cloudflare-docs/actions/workflows/update-api-schemas.yml/badge.svg)](https://github.com/Neon-Covenant/cloudflare-docs/actions/workflows/update-api-schemas.yml)
 # Cloudflare Docs
 
 **[View the docs →](https://developers.cloudflare.com/)**
